@@ -1,6 +1,6 @@
 # Deal Fairly Chrome Extension
 
-A modern Chrome extension that helps users identify and analyze the fairness of deals when shopping online.
+A modern Chrome extension that helps users identify and analyze the fairness of deals when shopping online or anything.
 
 ## Features
 
